@@ -50,7 +50,7 @@ Fun facts :
 </p>
 
 ---
-⭐️ From [yuvirathod123](https://github.com/yuvrajrathod123)
+⭐️ From [Yuvraj Rathod](https://github.com/yuvrajrathod123)
 ---
 <img src="https://github-readme-stats.vercel.app/api?username=yuvrajrathod123&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919&hide=contribs" width=80% />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuvrajrathod123&layout=compact&theme=radical&title_color=ffffff&icon_color=bb2acf" width=80%/>
