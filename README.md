@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 
 
-# Hey Hii <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="35px"> I am Yuvraj Rathod
+# Hii <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="35px"> I am Yuvraj Rathod
 
 ~~~
 Fun facts : 
