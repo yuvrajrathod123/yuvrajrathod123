@@ -53,16 +53,18 @@ Fun facts :
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white)
 
 
-<h2 align="left">Connect with me:</h2>
-<p align="left">
-<a href="https://instagram.com/y.u.v.i_r.a.t.h.o.d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="y.u.v.i_r.a.t.h.o.d" height="30" width="40" /></a>
-</p>
+## Connect with me:
+<!-- <h2 align="left">Connect with me:</h2>
+<p align="left"> -->
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/y.u.v.i_r.a.t.h.o.d/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuvraj-rathod-74225925b/)        
+<!-- </p> -->
 
 ---
 ⭐️ From [Yuvraj Rathod](https://github.com/yuvrajrathod123)
 ---
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=yuvrajrathod123&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919&hide=contribs" width=80% />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuvrajrathod123&layout=compact&theme=radical&title_color=ffffff&icon_color=bb2acf" width=80%/> -->
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=yuvrajrathod123&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919&hide=contribs" width=80% /> -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuvrajrathod123&layout=compact&theme=radical&title_color=ffffff&icon_color=bb2acf" width=80%/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=yuvrajrathod123&theme=blue-green" width=80% />
-<img src="https://github-profile-trophy.vercel.app/?username=yuvrajrathod123&row=1">
+<!-- <img src="https://github-profile-trophy.vercel.app/?username=yuvrajrathod123&row=1"> -->
 
