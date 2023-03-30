@@ -56,7 +56,7 @@ Fun facts :
 ## Connect with me:
 <!-- <h2 align="left">Connect with me:</h2>
 <p align="left"> -->
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/y.u.v.i_r.a.t.h.o.d/) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/y.u.v.i_r.a.t.h.o.d/) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuvraj-rathod-74225925b/)        
 <!-- </p> -->
 
